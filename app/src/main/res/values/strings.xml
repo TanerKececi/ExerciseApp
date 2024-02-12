@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExerciseApp</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="to_second_fragment">To Second Fragment</string>
+    <string name="add_exercise_to_your_program">Add Exercises to your program</string>
+    <string name="current_exercises">Current Exercises</string>
+    <string name="no_exercises">Currently There is No Exercises in the Program.</string>
+</resources>
